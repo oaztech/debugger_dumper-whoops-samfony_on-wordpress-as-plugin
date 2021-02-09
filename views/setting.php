@@ -1,5 +1,3 @@
-<!-- OazTecH debugger plugin -->
-<main>
-    <h1>Hello wold</h1>
-</main>
-<!-- OazTecH debugger plugin -->
+<!-- Oaz debugger plugin -->
+<main id="app" class=""></main>
+<!-- Oaz debugger plugin -->
